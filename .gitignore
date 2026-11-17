@@ -1,7 +1,5 @@
 /build/
 /out/
-/captures/
-/lemarch-baseline/
 *.iso
 *.vdi
 *.qcow2
